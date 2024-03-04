@@ -1,6 +1,6 @@
 # Visualização interativa de dados da SALIC WEB
 
-## Este repositório descreve o projeto de visualizaçaõ interativa de dados da lei de incentivo à cultura.
+## Este repositório descreve o projeto de visualização interativa de dados da lei de incentivo à cultura.
 
 **1. Geração dos dados:** Os dados são gerados pelo fluxo de projetos cadastrados na plataforma VerSalic e acessados via API (Interface de Programação de Aplicação) pública, a documentação é disponível no link <http://api.salic.cultura.gov.br/doc/>. A API é considerada pública quando não há necessidade de chave privada para acessar. Na plataforma estão disponíveis os dados sobre:
 
